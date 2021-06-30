@@ -10,7 +10,7 @@ Simple script for pentesting written in python
 # Requirements:
 - python
 
-##works on:
+## works on:
 probably any debian based distro
 tested on (kali-parrotOS-demon linux-ubuntu)
 Im not sure if its work on TERMUX app try it by yourself
