@@ -11,9 +11,11 @@ Simple script for pentesting written in python
 - python
 
 ## works on:
-probably any debian based distro
-tested on (kali-parrotOS-demon linux-ubuntu)
-Im not sure if its work on TERMUX app try it by yourself
+only on kali linux by default but you can run it on other debian based distros
+but you need to download all the toolsused by this script (look at screenshots)
+and give them the same path like kali-linux
+tested on (kali-linux / parrotOS /demon-linux / ubuntu)
+Im not sure if its work on *TERMUX* app try it by yourself
 
 # Instalation:
 ```
