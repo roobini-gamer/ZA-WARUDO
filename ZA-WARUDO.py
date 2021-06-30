@@ -236,7 +236,7 @@ def main_menu():
       "[7]  [  Metasploit ] [Executing exploit code against target.         ]\n"))
   print("        {0}".format(
       "[8]  [     SET     ] [Social-Engineer Toolkit                        ]\n"))
-  print("        {0}".format(c.Escape + c.Lred + "[9]  [Exit         ] [Exit The Script                                ]\n"))
+  print("        {0}".format(c.Escape + c.Lred + "[9]  [    Exit     ] [Exit The Script                                ]\n"))
 
 ### Anonymity State ###
 
