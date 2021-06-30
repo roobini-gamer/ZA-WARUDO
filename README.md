@@ -3,8 +3,8 @@ Simple script for pentesting written in python
 
 # ScreenShots:
 <a>
-  <img src="">
-  <img src="">
+  <img src="https://i.ibb.co/sgJDkBr/Screenshot-2021-06-29-21-45-03.png">
+  <img src="https://i.ibb.co/TYNyk7z/Screenshot-2021-06-29-21-44-13.png">
 </a>
 
 # Requirements:
