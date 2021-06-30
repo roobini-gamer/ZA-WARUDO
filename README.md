@@ -10,6 +10,11 @@ Simple script for pentesting written in python
 # Requirements:
 - python
 
+##works on:
+probably any debian based distro
+tested on (kali-parrotOS-demon linux-ubuntu)
+Im not sure if its work on TERMUX app try it by yourself
+
 # Instalation:
 ```
 $ git clone https://github.com/roobini-gamer/ZA-WARUDO.git
