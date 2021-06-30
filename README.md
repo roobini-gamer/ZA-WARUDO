@@ -8,7 +8,7 @@ Simple script for pentesting written in python
 </a>
 
 # Requirements:
-- python
+- python3 (only for kali users read bellow)
 
 ## works on:
 only on kali linux by default but you can run it on other debian based distros
@@ -22,9 +22,7 @@ Im not sure if its work on *TERMUX* app try it by yourself
 $ git clone https://github.com/roobini-gamer/ZA-WARUDO.git
 $ cd ZA-WARUDO
 $ chmod +x PUH.sh
-$ python ZA-WARUDO.py
-or 
-$ ./ZA-WARUDO.py
+$ python3 ZA-WARUDO.py
 ```
 
 # My web site
